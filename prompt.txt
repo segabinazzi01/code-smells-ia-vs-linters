@@ -1,0 +1,15 @@
+Analise o código Python a seguir (pode haver mais de um arquivo).
+Identifique APENAS ocorrências dos seguintes code smells:
+- Long Parameter List: função com quantidade excessiva de parâmetros;
+- Duplicate Code: mesma lógica repetida em mais de um local;
+- Complex Conditional: condicionais excessivamente aninhadas ou difíceis de compreender.
+
+Responda somente com um JSON no formato:
+[{"tipo": "<Long Parameter List | Duplicate Code | Complex Conditional>",
+  "arquivo": "<nome do arquivo>", "linhas": "<inicio-fim>",
+  "justificativa": "<uma frase>"}]
+Se não houver nenhum dos smells acima, responda [].
+Não sugira refatorações.
+
+Código:
+<COLAR O(S) ARQUIVO(S) DO TRECHO AQUI>

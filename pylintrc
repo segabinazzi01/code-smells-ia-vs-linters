@@ -1,0 +1,16 @@
+[MASTER]
+# Configuracao declarada do estudo: apenas as 3 verificacoes relacionadas
+# aos smells do corpus, com os limiares PADRAO do Pylint (sem ajuste).
+disable=all
+enable=too-many-arguments,duplicate-code,too-many-nested-blocks
+
+[DESIGN]
+max-args=5
+max-nested-blocks=5
+
+[SIMILARITIES]
+min-similarity-lines=4
+ignore-comments=yes
+ignore-docstrings=yes
+ignore-imports=yes
+ignore-signatures=yes

@@ -1,0 +1,36 @@
+id,tipo,arquivos,linhas,descricao
+LPL_01,LPL,lpl_01.py,1-23,cadastrar_cliente recebe 9 parametros
+LPL_02,LPL,lpl_02.py,1-19,criar_pedido recebe 7 parametros
+LPL_03,LPL,lpl_03.py,1-21,enviar_email recebe 8 parametros
+LPL_04,LPL,lpl_04.py,1-21,gerar_relatorio recebe 8 parametros
+LPL_05,LPL,lpl_05.py,1-19,agendar_consulta recebe 7 parametros
+LPL_06,LPL,lpl_06.py,1-25,registrar_produto recebe 10 parametros
+LPL_07,LPL,lpl_07.py,1-19,calcular_frete recebe 7 parametros
+LPL_08,LPL,lpl_08.py,1-21,criar_usuario recebe 8 parametros
+LPL_09,LPL,lpl_09.py,1-23,emitir_nota recebe 9 parametros
+LPL_10,LPL,lpl_10.py,1-19,matricular_aluno recebe 7 parametros
+CC_01,CC,cc_01.py,1-7,verificar_usuario com 4 niveis de if aninhado
+CC_02,CC,cc_02.py,1-7,pode_emprestar com 4 niveis de if aninhado
+CC_03,CC,cc_03.py,1-7,aprovar_credito com 4 niveis de if aninhado
+CC_04,CC,cc_04.py,1-8,liberar_acesso com 5 niveis de if aninhado
+CC_05,CC,cc_05.py,1-8,validar_pedido com 5 niveis de if aninhado
+CC_06,CC,cc_06.py,1-8,pode_matricular com 5 niveis de if aninhado
+CC_07,CC,cc_07.py,1-9,liberar_saque com 6 niveis de if aninhado
+CC_08,CC,cc_08.py,1-9,aceitar_inscricao com 6 niveis de if aninhado
+CC_09,CC,cc_09.py,1-10,autorizar_viagem com 7 niveis de if aninhado
+CC_10,CC,cc_10.py,1-10,liberar_deploy com 7 niveis de if aninhado
+DUP_01,DUP,dup_01_a.py+dup_01_b.py,2-7,bloco de 6 linhas identico nos dois arquivos
+DUP_02,DUP,dup_02_a.py+dup_02_b.py,2-7,bloco de 6 linhas identico nos dois arquivos
+DUP_03,DUP,dup_03_a.py+dup_03_b.py,2-7,bloco de 6 linhas identico nos dois arquivos
+DUP_04,DUP,dup_04_a.py+dup_04_b.py,2-8,bloco de 7 linhas identico nos dois arquivos
+DUP_05,DUP,dup_05_a.py+dup_05_b.py,2-7,bloco de 6 linhas identico nos dois arquivos
+DUP_06,DUP,dup_06_a.py+dup_06_b.py,2-8,bloco de 7 linhas identico nos dois arquivos
+DUP_07,DUP,dup_07_a.py+dup_07_b.py,2-7,bloco de 6 linhas identico nos dois arquivos
+DUP_08,DUP,dup_08_a.py+dup_08_b.py,2-7,bloco de 6 linhas identico nos dois arquivos
+DUP_09,DUP,dup_09_a.py+dup_09_b.py,2-9,bloco de 8 linhas identico nos dois arquivos
+DUP_10,DUP,dup_10_a.py+dup_10_b.py,2-7,bloco de 6 linhas identico nos dois arquivos
+LIMPO_01,LIMPO,limpo_01.py,-,sem smell planejado
+LIMPO_02,LIMPO,limpo_02.py,-,sem smell planejado
+LIMPO_03,LIMPO,limpo_03.py,-,sem smell planejado
+LIMPO_04,LIMPO,limpo_04.py,-,sem smell planejado
+LIMPO_05,LIMPO,limpo_05.py,-,sem smell planejado
